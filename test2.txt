@@ -1,3 +1,4 @@
 second file
 changed(new char)
 added a new line
+adding new line after ignoring
