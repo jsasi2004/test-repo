@@ -1,2 +1,3 @@
 second file
-changed
+changed(new char)
+added a new line
